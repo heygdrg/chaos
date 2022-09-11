@@ -21,7 +21,6 @@ then it will destroy the webhook.
 This nuker will be update, you will only need the channel id to spam.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/940036299941904405/994447869736128573/zyro-image_7.png" width="500", height="400">
 </p>
 <br>
 
@@ -51,4 +50,4 @@ This nuker will be update, you will only need the channel id to spam.
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">BKS#1958</p>
