@@ -24,6 +24,10 @@ This nuker will be update, you will only need the channel id to spam.
 </p>
 <br>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/94129991/189529266-779bbd6e-0fb9-4627-ba8f-9cd78c7aad45.png", width="500", height="500">
+</p>
+
 -----
 
 ### <p align="center">📀 Dependencies 📀</p>
