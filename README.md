@@ -7,12 +7,12 @@
 
 -----
 
-### <p align="center">☠️ Webhook Nuker ☠️</p>
+### <p align="center">☠️ CHAOS ☠️</p>
 
 <br><br>
 <p align="center">
 <strong>
-Here's a simple webhook nuker in Python3.
+Chaos is a simple webhook nuker in Python3.
 <br><br>
 It will spam webhook with fun GIF,
 <br>
